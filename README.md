@@ -1,7 +1,7 @@
 # Descrição do Repositório
-O repositório foi criado para armazenar os projetos desenvolvidos durante o Bootcamp Fundamentos de Desenvolvimento Frontend com React da iTalents, com o foco em aprimorar habilidades de desenvolvimento front-end. Cada projeto é uma oportunidade de aprofundar o conhecimento em HTML, CSS, JavaScript e React por meio de implementações práticas. O objetivo é fortalecer a base para o desenvolvimento de aplicações web interativas e dinâmicas.
+O repositório foi criado para armazenar os projetos desenvolvidos durante o **Bootcamp Fundamentos de Desenvolvimento Frontend** com React da iTalents, com o foco em aprimorar habilidades de desenvolvimento front-end. Cada projeto é uma oportunidade de aprofundar o conhecimento em HTML, CSS, JavaScript e React por meio de implementações práticas. O objetivo é fortalecer a base para o desenvolvimento de aplicações web interativas e dinâmicas.
 
-Cada projeto possui um README específico que segue os requisitos solicitados, incluindo uma explicação sobre o objetivo do projeto, as ferramentas utilizadas e instruções detalhadas sobre como usá-lo.
+Cada projeto possui um **README** específico que segue os requisitos solicitados, incluindo uma explicação sobre o objetivo do projeto, as ferramentas utilizadas e instruções detalhadas sobre como usá-lo.
 
 Sinta-se à vontade para explorar e contribuir!
 
