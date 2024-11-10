@@ -13,21 +13,25 @@ Aplicação em React que exibe o status dos alunos com base em suas notas. Cada 
 
 ## 📦 Como usar
 1. **Clone o repositório**
+   
    Primeiro, clone o repositório para a sua máquina local usando o seguinte comando:
    ```bash
    git clone https://github.com/fernandatollotti/status-dos-alunos.git
    
-3. **Navegue até o diretório do projeto**
+2. **Navegue até o diretório do projeto**
+   
     Use o comando ```cd``` para entrar no diretório do projeto clonado.
     ```bash
     cd status-dos-alunos
     
-4. **Instale as dependências**
+3. **Instale as dependências**
+   
     Instale as dependências do projeto usando o npm (Node Package Manager). Isso garantirá que todas as bibliotecas e ferramentas necessárias estejam disponíveis.
     ```bash
     npm install
     
-5. **Inicie o servidor de desenvolvimento**
+4. **Inicie o servidor de desenvolvimento**
+   
     Após a instalação das dependências, inicie o servidor de desenvolvimento. Isso permitirá que você veja a aplicação no seu navegador.
     ```bash
     npm start
