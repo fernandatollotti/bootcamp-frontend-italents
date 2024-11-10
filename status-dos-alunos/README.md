@@ -16,7 +16,7 @@ Aplicação em React que exibe o status dos alunos com base em suas notas. Cada 
    
    Primeiro, clone o repositório para a sua máquina local usando o seguinte comando:
    ```bash
-   git clone https://github.com/fernandatollotti/status-dos-alunos.git
+   git clone https://github.com/fernandatollotti/bootcamp-frontend-italents.git
    
 2. **Navegue até o diretório do projeto**
    
